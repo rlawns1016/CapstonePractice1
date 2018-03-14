@@ -7,11 +7,9 @@ print("Hello World")
 
 print("Hello World2")
 
-#adding new item in master branch
-
-print("Hello World3")
-print("Hello World2")
-
 #adding new item in hotfix
 
 print("Hello World4")
+
+#adding second ~ in main branch
+print("Hello World5")
